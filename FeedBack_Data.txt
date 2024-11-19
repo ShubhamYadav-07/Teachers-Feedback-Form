@@ -1,0 +1,32 @@
+Student Name : Shubham Yadav
+Student Roll No. : 2301331720053
+Teacher's Name : Dr. Vineet Kumar
+OverAll Feedback : 3.6785715
+1. Teacher is prepared for class : Agree
+2. Teacher knows His/Her Subject : Agree
+3. Teacher is Organized and neat : Agree
+4. Teacher plans class time and Assignments : Strongly Agree
+5. Teacher is flexible : Agree
+6. Teacher is clear about assignments and test : Strongly Agree
+7. Teacher allows you to be active in the classroom : Agree
+8. Teacher manages the time well : Neutral
+9. Teacher returns homework timely : Agree
+10. Teacher grades Fairly : Agree
+11. You have learned a lot from the teacher about this subject : Neutral
+12. Teacher gives good feedback on projects : Agree
+13. Teacher is creative in developing lesson plans : Disagree
+14. Teacher encourages students to speak up : Disagree
+15. Teacher follows through on what he/she says : Neutral
+16. Teacher listens student's point of view : Agree
+17. Teacher respects the opinions and decision of students : Neutral
+18. Teacher accepts responsibility for his/her own mistakes : Agree
+19. Teacher is willing to learn from students : Agree
+20. Teacher is sensitive to the needs of students : Neutral
+21. Teacher's words and actions match : Agree
+22. Teacher is fun to be with : Neutral
+23. Teacher likes and respects students : Agree
+24. Teacher helps when you ask for help : Agree
+25. Teacher is consistent and fair in discipline : Neutral
+26. I trust this teacher : Agree
+27. Teacher tries to match student's expectations : Strongly Agree
+28. Teacher is firm in discipline without being too strict : Neutral
